@@ -1,2 +1,3 @@
 # ML-Laptops-Price-Prediction
-ML-Regression Model-Predicting the price of laptops
+ML Regression Model<br>
+Predicting the price of laptops
