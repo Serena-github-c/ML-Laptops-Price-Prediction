@@ -23,7 +23,8 @@ The model utilizes linear regression to estimate final prices and assess the imp
 - The dataset is in CSV format and downloaded from [Kaggle](https://www.kaggle.com/datasets/juanmerinobermejo/laptops-price-dataset)
 
 ## License
-This project is licensed under the MIT License 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 ---
